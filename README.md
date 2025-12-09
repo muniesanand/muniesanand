@@ -129,9 +129,9 @@
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 300+ | Knight Rank |
-| **CodeChef** | 567 | 1601 |
-| **CodeForces** | 136 | 969 |
+| **LeetCode** | 30+ | 1418 |
+| **CodeChef** | 455 | 1022 |
+| **CodeForces** | 10 | 969 |
 | **GeeksForGeeks** | 65+ | - |
 
 ###  **Hackathon Achievements**
