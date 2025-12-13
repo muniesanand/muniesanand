@@ -130,9 +130,9 @@
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
 | **LeetCode** | 30+ | 1418 |
-| **CodeChef** | 455 | 1022 |
-| **CodeForces** | 10 | 969 |
-| **GeeksForGeeks** | 65+ | - |
+| **CodeChef** | 555 | 1220 |
+| 
+|
 
 ###  **Hackathon Achievements**
 - **1st Place** - CodeSmash (Inter-college DSA Hackathon)
